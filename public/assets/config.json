@@ -1,0 +1,174 @@
+{
+    "status": 200,
+    "data": {
+        "logo": "assets/images/logo.png",
+        "home": {
+            "bannerList": [
+                {
+                    "name": "banner1",
+                    "path": "assets/images/banner-1.png",
+                    "href": ""
+                },
+                {
+                    "name": "banner2",
+                    "path": "assets/images/banner-2.png",
+                    "href": ""
+                },
+                {
+                    "name": "banner3",
+                    "path": "assets/images/banner-3.png",
+                    "href": ""
+                },
+                {
+                    "name": "banner4",
+                    "path": "assets/images/banner-4.png",
+                    "href": ""
+                }
+            ]
+        },
+        "aboutUs": {
+            "contentText": "我们以创新为起点、以技术为核心、以团队为支撑，致力于为政府、企事业单位提供定制化互网络应用解决方案及互联网+增值服务。互联网技术应用开发、移动互联网应用开发（软件定制、原生APP开发、小程序定制开发等）。",
+            "countData": [
+                {
+                    "name": "开发团队",
+                    "count": 8
+                },
+                {
+                    "name": "APP/软件上线",
+                    "count": 11
+                },
+                {
+                    "name": "累计服务客户",
+                    "count": 7
+                },
+                {
+                    "name": "产品服务价值",
+                    "count": 5000000
+                }
+            ],
+            "introductionData": {
+                "background": "assets/images/introduction_bg.jpg",
+                "data": [
+                    {
+                        "name": "uni-app开发",
+                        "pic": "assets/images/app.png",
+                        "des": "uni-app 是一个使用 Vue.js (opens new window)开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。"
+                    },
+                    {
+                        "name": "Web网页开发",
+                        "pic": "assets/images/soft.png",
+                        "des": "Web开发是为Internet（World Wide Web）或Intranet（私有网络）开发网站所涉及的工作。Web开发的范围可以从开发简单的纯文本单个静态页面到复杂的基于Web的Internet应用程序（Web应用程序），电子商务和社交网络服务。Web网页开发包括各类管理后台系统、电商、社交类网站等。"
+                    },
+                    {
+                        "name": "微信开发",
+                        "pic": "assets/images/wechat.png",
+                        "des": "微信开发即微信公众平台开发和微信小程序开发，将企业信息、服务、活动等内容通过微信网页或小程序的方式进行表现，用户通过简单的设置，就能生成微信3G网站。通过微信公众平台将企业品牌展示给微信用户，减少宣传成本，建立企业与消费者、客户的一对一互动和沟通，将消费者接入企业CRM系统，进行促销、推广、宣传、售后等。"
+                    },
+                    {
+                        "name": "H5开发",
+                        "pic": "assets/images/h5.png",
+                        "des": "HTML5并不是一项新的技术。HTML是HTML5的前身，随着智能手机的发展、PC端到移动端的演变、大环境的改变、全世界的IT巨头共同努力，使HTML5技术不断完善优化，从而促使其打败了雄霸多年的Flash，不仅快速占领了游戏开发领域，而且几乎所有网络营销都会用到。"
+                    }
+                ]
+            },
+            "teamIntroductionText": "我们是一支有担当的团队，成员均拥有多年的软件开发技术背景，多名来自国内大型公司的技术骨干。 我们是一支专注的团队。我们坚信，我们的成绩源自客户的认可。我们有一个共同的梦想：做一个有价值的互联网软件开发团队，为客户提供可信赖的软件开发服务。",
+            "teamIntroductionData": [
+                {
+                    "name": "XW",
+                    "job": "前端技术总监",
+                    "avatar": "assets/images/soft.png",
+                    "des": "原ZTE中兴通讯高级前端开发工程师"
+                },
+                {
+                    "name": "LQZ",
+                    "job": "高级Web前端开发工程师",
+                    "icon": "el-icon-user-solid",
+                    "des": "原OPPO公司Web前端开发工程师"
+                },
+                {
+                    "name": "WJL",
+                    "job": "Java技术总监",
+                    "icon": "el-icon-user-solid",
+                    "des": "原ZTE中兴通讯高级Java开发工程师"
+                },
+                {
+                    "name": "XYS",
+                    "job": "高级Java开发工程师",
+                    "icon": "el-icon-user-solid",
+                    "des": "高级Java开发工程师"
+                },
+                {
+                    "name": "LBY",
+                    "job": "高级产品经理",
+                    "icon": "el-icon-user-solid",
+                    "des": "原恒大地产公司高级产品经理"
+                },
+                {
+                    "name": "WL",
+                    "job": "高级测试经理",
+                    "icon": "el-icon-user-solid",
+                    "des": "原金蝶软件有限公司测试工程师"
+                },
+                {
+                    "name": "LZQ",
+                    "job": "测试工程师",
+                    "icon": "el-icon-user-solid",
+                    "des": "测试工程师"
+                },
+                {
+                    "name": "LLX",
+                    "job": "UI设计经理",
+                    "icon": "el-icon-user-solid",
+                    "des": "原卖点科技有限公司UI设计师"
+                }
+            ]
+        },
+        "caseWorks": {
+            "data": [
+                {
+                    "pic": "assets/images/catcher-circle-A.jpg",
+                    "title": "及信通PC管理后台系统",
+                    "des": "Web网页开发"
+                },
+                {
+                    "pic": "assets/images/catcher-circle-B.jpg",
+                    "title": "及信通小程序",
+                    "des": "微信小程序"
+                },
+                {
+                    "pic": "assets/images/catcher-grain.jpg",
+                    "title": "i福田司机之家管理后台系统",
+                    "des": "Web网页开发"
+                },
+                {
+                    "pic": "assets/images/catcher.jpg",
+                    "title": "i福田小程序",
+                    "des": "微信小程序"
+                },
+                {
+                    "pic": "assets/images/fall-maple-leaves.jpg",
+                    "title": "云存宝相册分享",
+                    "des": "微信网页开发"
+                },
+                {
+                    "pic": "assets/images/light-house.jpg",
+                    "title": "云存宝相册分享",
+                    "des": "微信网页开发"
+                },
+                {
+                    "pic": "assets/images/catcher.jpg",
+                    "title": "云存宝相册分享",
+                    "des": "微信网页开发"
+                },
+                {
+                    "pic": "assets/images/banner-4.png",
+                    "title": "云存宝相册分享",
+                    "des": "微信网页开发"
+                }
+            ]
+        },
+        "callUs": {
+            "qr": "assets/images/qr.jpg"
+        }
+    }
+}
